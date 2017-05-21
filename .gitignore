@@ -1,0 +1,7 @@
+.floydignore
+floyd_requirements.txt
+old/
+data/
+.ipynb_checkpoints/
+.floydexpt
+__pycache__/
